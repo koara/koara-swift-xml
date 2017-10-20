@@ -15,7 +15,7 @@ class ComplianceTests: QuickSpec {
                     let module = url.pathComponents[url.pathComponents.count - 2]
                     let testcase = url.lastPathComponent.substring(to: url.lastPathComponent.index(url.lastPathComponent.endIndex, offsetBy: -3))
 
-                    it("KoaraToHtml_\(testcase)") {
+                    it("KoaraToXml_\(testcase)") {
                         do {
                             let expected = testsuite.appendingPathComponent("output").appendingPathComponent("html5").appendingPathComponent(module).appendingPathComponent("\(testcase).htm")
                             
