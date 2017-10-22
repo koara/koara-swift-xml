@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>KoaraXml iOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -28,16 +33,6 @@
 			<true/>
 		</dict>
 		<key>A1DA64F61F7649E700ABB93E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A1DA65411F7A01DD00ABB93E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A1DA65491F7A01DD00ABB93E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

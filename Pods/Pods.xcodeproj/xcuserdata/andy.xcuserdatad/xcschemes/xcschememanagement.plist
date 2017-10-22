@@ -3,34 +3,34 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
+	<dict/>
+	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>Koara.xcscheme</key>
+		<key>49888B5699AA67F5F9C62CE6D55FA699</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>primary</key>
+			<true/>
 		</dict>
-		<key>Nimble.xcscheme</key>
+		<key>C6B37B054F35C9D54AE2014DDB954A68</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>primary</key>
+			<true/>
 		</dict>
-		<key>Pods-KoaraXml iOS-KoaraXml iOS Tests.xcscheme</key>
+		<key>DC79D50110508B0F38D506A23DDD7624</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>primary</key>
+			<true/>
 		</dict>
-		<key>Pods-KoaraXml iOS.xcscheme</key>
+		<key>DD7C8BF89FE8053D0A2A2D88BB49CF07</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>primary</key>
+			<true/>
 		</dict>
-		<key>Quick.xcscheme</key>
+		<key>DD90536A56E313FE6FC1F3ABECDA56D1</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
-	<key>SuppressBuildableAutocreation</key>
-	<dict/>
 </dict>
 </plist>

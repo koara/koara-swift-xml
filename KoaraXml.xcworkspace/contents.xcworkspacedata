@@ -2,12 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:KoaraHtml.xcodeproj">
+      location = "group:KoaraXml.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:KoaraXml.xcodeproj">
    </FileRef>
 </Workspace>
